@@ -1,0 +1,15 @@
+ADVANCED CAESAR CIPHER LAB — SOC CASE REPORT
+=======================================================
+
+Generated (UTC) : 2026-01-31T05:45:03.643925
+Analyst         : Vishal
+Classification  : INTERNAL / TRAINING
+
+FORENSIC EVENT LOG
+----------------------------------------
+1. DEC | SHIFT 9 | 2026-01-31T05:42:24.283285
+2. ENC | SHIFT 9 | 2026-01-31T05:42:17.005377
+3. ENC | SHIFT 7 | 2026-01-31T05:39:28.554416
+4. ENC_RANDOM | SHIFT 25 | 2026-01-31T03:36:08.519196
+5. DEC | SHIFT 9 | 2026-01-31T03:35:01.761911
+6. ENC | SHIFT 9 | 2026-01-31T03:34:28.734042
