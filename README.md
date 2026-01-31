@@ -58,9 +58,11 @@ LINUX
 
 (1) git clone https://github.com/cyc3o/CODECRAFT_CS_01.git
 
-(2) cd CODECRAFT_CS_01
+(2) pip install -r requirements.txt
 
-(3) python main.py
+(3) cd CODECRAFT_CS_01
+
+(4) python main.py
 
 ## 📂 PROJECT STRUCTURE
 
@@ -88,5 +90,6 @@ ADVANCED-CAESAR-CIPHER-LAB/
 │   ├── COLORS.PY            # TERMINAL COLOR HANDLING
 
 │   └── HELPERS.PY           # SHARED SAFE UTILITIES
+
 
 
