@@ -56,7 +56,11 @@ PYTHON 3.8+
 WORKS ON:
 LINUX
 
-python main.py
+(1) git clone https://github.com/cyc3o/CODECRAFT_CS_01.git
+
+(2) cd CODECRAFT_CS_01
+
+(3) python main.py
 
 ## 📂 PROJECT STRUCTURE
 
@@ -84,4 +88,5 @@ ADVANCED-CAESAR-CIPHER-LAB/
 │   ├── COLORS.PY            # TERMINAL COLOR HANDLING
 
 │   └── HELPERS.PY           # SHARED SAFE UTILITIES
+
 
